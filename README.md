@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Aaron Shah!
-
 ### 🚀 Level 6 Software Engineering Apprentice
-
-Currently coding my way through the world of tech at full speed — learning, building, and occasionally breaking things (for science! 🧪).
 
 ---
 
@@ -37,10 +33,6 @@ When I'm not debugging, you'll find me:
 ### 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aaron-shah18)
-
----
-
-> “Learning never exhausts the mind.” — Leonardo da Vinci
 
 ---
 
